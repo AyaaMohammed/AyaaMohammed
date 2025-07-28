@@ -21,6 +21,14 @@
 
 ---
 
+### ✨ A Little More About Me
+
+I love building things from scratch — from simple frontend components to scalable backend APIs.  
+I enjoy solving problems, learning new technologies, and collaborating with other developers.  
+If you have a cool idea or just want to say hi, **let's connect!**
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -38,25 +46,13 @@
 
 ---
 
-### 📊 GitHub Stats (will appear after contributions)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyaaMohammed&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaaMohammed&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🚀 Projects
-
-> Below are some of my featured projects (add images later)
-
-| Project | Description |
-|--------|-------------|
-| 🛍️ **E-Commerce Dashboard** | Admin dashboard built with React, Node.js, MongoDB |
-| 🍔 **Restaurant Ordering App** | Online food ordering site using Angular + ASP.NET |
-| 📚 **Online Exam Platform** | Student/Teacher platform with live exam support |
 
 ---
 
