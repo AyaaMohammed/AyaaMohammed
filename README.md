@@ -20,7 +20,6 @@
 - 📫 Reach me: **ayamohammednafed@gmail.com**
 
 ---
----
 
 ### 🛠️ Tech Stack
 
@@ -45,38 +44,29 @@
 </p>
 
 ---
-### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
+### 🎯 My Next Goals
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Databases & Tools:**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ✅ Build a complete freelance platform using **MERN Stack**
+- 🚀 Host full-stack project on **Azure**
+- 🐳 Learn and deploy using **Docker & Kubernetes**
+- 📦 Build my own **NPM package** for form validation
+- 📚 Master **Design Patterns** and **Clean Architecture**
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Highlight Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaaMohammed&show_icons=true&theme=react" alt="Aya's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaaMohammed&theme=react" alt="GitHub Streak" />
-</p>
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Restaurant App** | Ordering UI + Admin dashboard | Angular + .NET Core |
+| **Zoom Integration** | API to schedule Zoom meetings | Node.js + MongoDB |
+| **E-commerce Dashboard** | CRUD + Auth + Charts | Angular + ASP.NET Core |
+| **Chat System** | Real-time messaging with socket.io | Node.js + MongoDB |
 
 ---
 
 ### 💡 Quote
 
 > "The only way to do great work is to love what you do." — *Steve Jobs*
+
