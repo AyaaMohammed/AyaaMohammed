@@ -29,8 +29,9 @@
 
 ### 💡 My Passion
 
-I'm passionate about building scalable applications that solve real-world problems and architecting clean, RESTful APIs. 
-I'm a fast learner, a team player, and always up for a challenge!
+- 🚀 I'm passionate about building **scalable applications** that solve real-world problems  
+- ⚡ I'm a **fast learner** who's always curious to explore new technologies  
+- 🤝 I'm a **team player** who enjoys collaboration and solving challenges together  
 
 ---
 
@@ -42,7 +43,7 @@ I'm a fast learner, a team player, and always up for a challenge!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Core" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40"/>
