@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aya Nafed</h1>
-<h3 align="center">Full Stack Developer | I Build Scalable & Elegant Web Applications</h3>
+<h3 align="center">Backend Developer | I Build Scalable & Elegant Web Applications</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aya-mohamed-nafed/" target="_blank">
@@ -18,17 +18,18 @@
 
 ### 👩‍💻 About Me
 
-- 💼 Full Stack Developer specializing in **JavaScript, Node.js, MongoDB, React, Angular, and ASP.NET Core**
-- 🌐 I love creating intuitive frontend interfaces and building powerful backend systems
-- 🧠 Currently learning **Microservices**, **Cloud Deployment (Azure & Firebase)**, and **System Design**
-- 💬 Ask me about **REST APIs, Authentication, Database Design, Frontend Architecture**
-- 📫 Reach me at **ayamohammednafed@gmail.com**
+- 💼 I'm a Backend Developer with hands-on experience in **.NET Core Web API, .NET Core MVC, Node.js, MongoDB, SQL Server, Angular, and ASP.NET Core**
+- 🌐 I enjoy building clean and responsive frontend interfaces, and robust, scalable backend systems
+- 🧠 Currently expanding my knowledge in **Microservices**, **Cloud Deployment (Azure & Firebase)**, and **System Design**
+- 💬 I'm always happy to talk about **RESTful APIs, Authentication, Database Design, and Frontend Architecture**
+- 📫 You can reach me anytime at **ayamohammednafed@gmail.com**
+
 
 ---
 
 ### 💡 My Passion
 
-I'm passionate about building applications that solve real-world problems. Whether it's designing sleek UI or architecting RESTful APIs, I enjoy working across the full stack.  
+I'm passionate about building scalable applications that solve real-world problems and architecting clean, RESTful APIs. 
 I'm a fast learner, a team player, and always up for a challenge!
 
 ---
@@ -41,8 +42,7 @@ I'm a fast learner, a team player, and always up for a challenge!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Core" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40"/>
