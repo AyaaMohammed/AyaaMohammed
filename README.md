@@ -18,7 +18,7 @@
 
 ### 👩‍💻 About Me
 
-- 💼 I'm a Backend Developer with hands-on experience in **.NET Core Web API, .NET Core MVC, Node.js, MongoDB, SQL Server, Angular, and ASP.NET Core**
+- 💼 I'm a Backend Developer with hands-on experience in **.NET Core, Node.js, MongoDB, SQL Server, and Angular**
 - 🌐 I enjoy building clean and responsive frontend interfaces, and robust, scalable backend systems
 - 🧠 Currently expanding my knowledge in **Microservices**, **Cloud Deployment (Azure & Firebase)**, and **System Design**
 - 💬 I'm always happy to talk about **RESTful APIs, Authentication, Database Design, and Frontend Architecture**
