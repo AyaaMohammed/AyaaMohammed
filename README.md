@@ -42,6 +42,45 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+---
+
+### 🚀 My Projects
+
+Here are a few of my recent and favorite projects:
+
+#### 📦 ADO SuperMarket System
+A simple desktop-based supermarket management system using ADO.NET & C#.
+
+<img src="https://raw.githubusercontent.com/AyaaMohammed/ado-supermarket/main/screenshots/home.png" width="600" alt="ADO SuperMarket Screenshot" />
+
+- 🧩 Features: Add/Edit/Delete products, stock control, basic UI
+- 🛠️ Stack: C#, ADO.NET, SQL Server
+
+---
+
+#### 🌐 Food Delivery Website (Frontend)
+Responsive food ordering UI built with Angular.
+
+<img src="https://raw.githubusercontent.com/AyaaMohammed/food-order-ui/main/screenshots/restaurant-list.png" width="600" alt="Food Ordering UI Screenshot" />
+
+- 🍔 Features: Search restaurants, filter by city, responsive design
+- 🛠️ Stack: Angular, TypeScript, HTML, CSS
+
+---
+
+#### 📡 REST API - Freelance Services
+Backend system for managing freelance services with authentication and payments.
+
+<img src="https://raw.githubusercontent.com/AyaaMohammed/freelance-api/main/screenshots/api-docs.png" width="600" alt="Freelance API Screenshot" />
+
+- 🔐 Features: Register/Login, wallet system, payment tracking
+- 🛠️ Stack: Node.js, Express, MongoDB, JWT
+
+---
+
+> 💡 Tip: Make sure the `screenshots` folder exists in each project repo with real images like `home.png`, `restaurant-list.png`, etc.
+
+---
 
 ### 📊 GitHub Stats
 
