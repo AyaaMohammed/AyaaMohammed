@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aya Mohamed</h1>
+<h1 align="center">Hi there 👋, I'm Aya Nafed</h1>
 <h3 align="center">Full Stack Developer | Passionate about building Web Apps</h3>
 
 <p align="center">
@@ -7,6 +7,16 @@
   </a>
   <a href="mailto:ayamohammednafed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 📄 My CV
+
+<p align="center">
+  <a href="[https://drive.google.com/your-cv-link](https://drive.google.com/file/d/1N0iqMM4TvEaJtMV0in5MgJpGp3iB3hbU/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
