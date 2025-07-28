@@ -67,4 +67,4 @@ If you're looking for a developer to join your team or collaborate on an awesome
 
 ---
 
-<p align="center">📝 Last updated by <b>Aya Mohamed</b></p>
+<p align="center">📝 Last updated by <b>Aya Nafed</b></p>
