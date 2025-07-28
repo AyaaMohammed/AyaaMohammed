@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/aya-mohamed-nafed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:ayamohammednafed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
+<a href="mailto:ayamohammednafed@gmail.com" title="Send Email">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+</a>
+
   <a href="https://drive.google.com/file/d/1N0iqMM4TvEaJtMV0in5MgJpGp3iB3hbU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
